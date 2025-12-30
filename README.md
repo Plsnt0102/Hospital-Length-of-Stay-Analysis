@@ -76,17 +76,22 @@ KPI Cards
 Key performance indicators summarizing overall hospital length of stay, discharge outcomes, and repeat visit behavior.
 
 Length of Stay Distribution
-[LOS Distribution.xlsx](https://github.com/user-attachments/files/24384041/LOS.Distribution.xlsx)
+<img width="848" height="523" alt="LOS Distribution" src="https://github.com/user-attachments/assets/61f8a4fa-8c31-4fa5-8509-a1bd5e5d2a3d" />
+
 
 Most patients experience short hospital stays, while a small proportion account for prolonged lengths of stay.
 
 Average Length of Stay by Facility
 
-[Avg LOS by Facid.xlsx](https://github.com/user-attachments/files/24384074/Avg.LOS.by.Facid.xlsx)
+<img width="818" height="526" alt="LOS by Facid" src="https://github.com/user-attachments/assets/5badc863-49cb-4638-93fa-24953e054918" />
+
 
 Average length of stay varies across facilities, highlighting differences in patient mix and operational practices.
 
 Length of Stay Analysis Dashboard
+
+<img width="900" height="585" alt="Dashboard view" src="https://github.com/user-attachments/assets/5faf9c39-ce1a-456e-b3e5-ededd5d0caff" />
+
 
 
 The interactive Excel dashboard contains slicers, dynamic KPIs, and PivotTables to explore hospital Length of Stay (LOS) patterns.  
