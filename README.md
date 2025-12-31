@@ -1,13 +1,16 @@
 Hospital Length of Stay (LOS) Analysis
+
 Project Overview
 This project analyzes hospital Length of Stay (LOS) to identify patterns, understand key drivers of prolonged admissions, and present insights through an interactive Excel dashboard. The goal is to support operational efficiency and clinical decision-making using data-driven insights.
 
 Project Objective
+
 •	Explore hospital LOS patterns
 •	Identify factors influencing prolonged hospital stays
 •	Develop an interactive Excel dashboard for analysis and reporting
 
 Dataset Overview
+
 •	Records: 100,000
 •	Features: 28
 •	Primary Metric: Length of Stay (LOS)  https://www.kaggle.com/datasets/aayushchou/hospital-length-of-stay-dataset-microsoft   
@@ -15,7 +18,9 @@ Dataset Overview
 All data fields were reviewed for consistency, accuracy, and usability prior to analysis.
 
 Data Cleaning & Preprocessing
+
 Minimal preprocessing was required:
+
 •	No missing values detected
 •	No duplicate records found
 •	Date fields standardized to proper date format
@@ -29,6 +34,7 @@ The following derived fields were created:
 
 
 Key Performance Indicators (KPIs)
+
 •	Average Length of Stay
 •	Median Length of Stay
 •	Discharge Rate
@@ -45,29 +51,34 @@ The interactive Excel dashboard includes:
 Slicers allow filtering by gender, visit frequency, facility, and LOS category.
 
 Key Insights
+
 •	Most patients have short hospital stays, while a small group accounts for prolonged LOS
 •	Repeat visits are strongly associated with longer LOS
 •	Discharge probability decreases as LOS increases
 •	Facility-level variation suggests opportunities for benchmarking
 
 Recommendations
+
 •	Focus care management efforts on repeat-visit patients
 •	Review long-stay cases to enable early intervention
 •	Benchmark facility performance to identify best practices
 •	Improve post-discharge planning to reduce readmissions
 
 Tools Used
+
 •	Microsoft Excel (PivotTables, Power Pivot, Slicers, Dashboard Design)
 
 
 
 
 Deliverables
+
 •	Interactive Excel Dashboard
 •	Cleaned Dataset
 •	Project Documentation
 
 Conclusion
+
 This project demonstrates how Excel-based analytics can uncover actionable insights into hospital operations. The dashboard enables stakeholders to monitor LOS drivers, optimize patient flow, and support data-driven healthcare decisions.
 
 KPI Cards
