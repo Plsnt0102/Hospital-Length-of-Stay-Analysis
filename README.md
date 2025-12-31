@@ -1,4 +1,4 @@
-Hospital Length of Stay (LOS) Analysis
+sewHospital Length of Stay (LOS) Analysis
 
 Project Overview
 This project analyzes hospital Length of Stay (LOS) to identify patterns, understand key drivers of prolonged admissions, and present insights through an interactive Excel dashboard. The goal is to support operational efficiency and clinical decision-making using data-driven insights.
@@ -114,7 +114,6 @@ To view the dashboard fully:
 2. Open the file in Excel Desktop to access all interactive features.  
 
 
-Click thr link below to download
 https://docs.google.com/spreadsheets/d/1voBCf3omgfuRiyn6suM9Tves--qO9jsJ/edit?usp=drive_link&ouid=103507646127850573091&rtpof=true&sd=true
 
 
