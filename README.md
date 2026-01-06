@@ -108,14 +108,7 @@ Length of Stay Analysis Dashboard
 
 The interactive Excel dashboard contains slicers, dynamic KPIs, and PivotTables to explore hospital Length of Stay (LOS) patterns.  
 
- Important: Due to limitations in Excel Online, interactive features (slicers and dynamic KPI cards) will not function properly in the browser.  
-
-To view the dashboard fully:  
-1. Download the Excel file using the link below.  
-2. Open the file in Excel Desktop to access all interactive features.  
-
-
-https://docs.google.com/spreadsheets/d/1voBCf3omgfuRiyn6suM9Tves--qO9jsJ/edit?usp=drive_link&ouid=103507646127850573091&rtpof=true&sd=true
+ 
 
 
 
