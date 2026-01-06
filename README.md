@@ -101,7 +101,8 @@ Average length of stay varies across facilities, highlighting differences in pat
 
 Length of Stay Analysis Dashboard
 
-<img width="900" height="585" alt="Dashboard view" src="https://github.com/user-attachments/assets/5faf9c39-ce1a-456e-b3e5-ededd5d0caff" />
+[Dashboard updated.xlsx](https://github.com/user-attachments/files/24451861/Dashboard.updated.xlsx)
+
 
 
 
